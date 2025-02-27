@@ -1,0 +1,1 @@
+Enter a no (1-7) to get the corresponding day of the week:
